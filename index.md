@@ -1,4 +1,4 @@
-## Welcome to my blog
+## Nigerald's blog
 
 I am studying cybersecurity and looking into penetration testing and red teaming. I am a first year student at Cal Poly Pomona.
 
